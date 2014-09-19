@@ -6,7 +6,6 @@ public class ButtonActionListener implements ActionListener {
 	State buttonState;
 	public ButtonActionListener (Gui gui) {
 		this.gui = gui;
-		11111111
 	}
 	
 	public void actionPerformed(ActionEvent e) {
